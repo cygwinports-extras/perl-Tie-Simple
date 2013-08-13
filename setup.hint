@@ -1,6 +1,0 @@
-category: Perl
-requires: perl
-sdesc: "Perl simple ties module"
-ldesc: "Tie::Simple basically dumbs down the implementation of simple 
-ties so that a full-blown package need not be created for the very 
-simple stuff that should be tied."
