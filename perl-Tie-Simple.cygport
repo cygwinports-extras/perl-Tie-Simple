@@ -2,8 +2,8 @@ CPAN_AUTHOR=hanenkamp
 inherit perl
 
 NAME="perl-Tie-Simple"
-VERSION=1.03
-RELEASE=3
+VERSION=1.04
+RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl simple ties module"
 DESCRIPTION="Tie::Simple basically dumbs down the implementation of simple
